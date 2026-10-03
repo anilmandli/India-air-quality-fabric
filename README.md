@@ -18,6 +18,8 @@ This project ingests hourly OpenAQ sensor data and Open-Meteo weather data into 
 | 5 | What is the data completeness and sensor reliability rate across monitoring stations? | Expected vs received readings | Data quality |
 | 6 | What are the hourly and weekday pollution patterns specifically for Ahmedabad? | Hourly PM2.5, Ahmedabad | City deep-dive |
 
+Ahmedabad has PM2.5 only from Maninagar and PM10 only from Rakhial (a different station)
+
 ## Data source 
 
 ## Architecture
